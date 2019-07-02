@@ -1,0 +1,8 @@
+@import "variables";
+
+.app {
+  color: $c-pomegranate;
+  font-family: $roboto;
+  padding-top: 500px;
+  background-image: url("~public/assets/images/logo.svg");
+}
