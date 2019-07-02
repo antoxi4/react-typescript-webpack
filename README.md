@@ -2,15 +2,19 @@
 
 - **Install NodeJs from** [https://nodejs.org/uk/](https://nodejs.org/uk/)
 - ```sh
-  $ yarn install
+  yarn install
   ```
 
 ## Running
 
 ### Development
 
-- yarn start
+- - ```sh
+  yarn start
+  ```
 
 ## Build for production
 
-- yarn build
+- - ```sh
+  yarn build
+  ```
