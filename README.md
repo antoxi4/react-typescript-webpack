@@ -9,12 +9,12 @@
 
 ### Development
 
-- - ```sh
+- ```sh
   yarn start
   ```
 
 ## Build for production
 
-- - ```sh
+- ```sh
   yarn build
   ```
